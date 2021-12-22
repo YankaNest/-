@@ -62,11 +62,6 @@ body {
 }
 
 
-.bg-first-screen {
-  width: 100%;
-  position: absolute;
-}
-
 a {
   display: inline-block;
   text-decoration: none;
@@ -88,6 +83,11 @@ video {
   height: 100%;
 }
 
+
+.bg-first-screen {
+  width: 100%;
+  position: absolute;
+}
 
 .cube {
   width: 32px;
